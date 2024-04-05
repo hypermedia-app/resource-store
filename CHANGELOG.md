@@ -1,5 +1,11 @@
 # @hydrofoil/resource-store
 
+## 0.2.1
+
+### Patch Changes
+
+- fac225a: TypeScript declarations
+
 ## 0.2.0
 
 ### Minor Changes
