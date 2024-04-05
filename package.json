@@ -8,6 +8,10 @@
     "prepack": "tsc",
     "prepare": "husky"
   },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hypermedia-app/resource-store"
@@ -24,6 +28,7 @@
     "@changesets/cli": "^2.0.0",
     "@tpluscode/eslint-config": "^0.4.5",
     "@types/rdf-dataset-ext": "^1.0.0",
+    "@types/sparql-http-client": "^3.0.2",
     "@typescript-eslint/eslint-plugin": "^7.5.0",
     "@typescript-eslint/parser": "^7.5.0",
     "eslint-import-resolver-typescript": "^3.6.1",
