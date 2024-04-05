@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint . --ext .ts --ignore-path .gitignore",
     "prepack": "tsc",
-    "prepare": "husky"
+    "prepare": "husky",
+    "release": "changeset publish"
   },
   "files": [
     "index.js",
