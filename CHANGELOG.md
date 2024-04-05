@@ -1,5 +1,12 @@
 # @hydrofoil/resource-store
 
+## 0.2.0
+
+### Minor Changes
+
+- dc0e9a2: Remove dependency on `@zazuko/env`
+- dc0e9a2: Updated to `sparql-http-client` v3
+
 ## 0.1.1
 
 ### Patch Changes
