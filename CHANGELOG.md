@@ -1,5 +1,11 @@
 # @hydrofoil/resource-store
 
+## 0.2.2
+
+### Patch Changes
+
+- a9f7704: Update `@tpluscode/sparql-builder` to v3
+
 ## 0.2.1
 
 ### Patch Changes
